@@ -1,0 +1,23 @@
+
+html {
+		background-image:url("CompactPowder.png");
+		font-family:Verdana,Geneva< sana-serif;
+}
+
+body {
+		background-color:#e2f7ff;
+		font-family:Verdana,Geneva< sana-serif;
+		margin: 0 auto;
+		width: 100%;
+		max-width: 1020px;
+		min-width: 640px;
+}
+
+body > header > nav > ul > li {
+	list-style-type: none;
+	display: table-cell;
+}
+
+body > header > nav > img{
+	float: right;
+}
